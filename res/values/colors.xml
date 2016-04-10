@@ -27,6 +27,6 @@ limitations under the License.
     <color name="pressed_app_color">#77FF8800</color>
 
     <!-- the background color will also be defined here so that you can use it in your layouts if you want -->
-    <color name="background_color">#dddddd</color>
+    <color name="background_color">##B03060</color>
 
 </resources>
